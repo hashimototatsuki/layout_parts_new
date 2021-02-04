@@ -24,17 +24,17 @@
   text-align: center;
 }
 
-.q3＿content th,.q3＿content td {
+.q3＿content th , .q3＿content td {
   padding: 10px;
   border: 1px solid #dedede;
   vertical-align: middle;
 }
 
-.q3＿content>tbody>tr:nth-child(even) {
+.q3＿content > tbody > tr:nth-child(even) {
   background-color: #ecf1f2;
 }
 
-.q3＿content>tfoot>tr:last-child {
+.q3＿content > tfoot > tr:last-child {
   border-top: 2px dashed #000 ;
 }
 
