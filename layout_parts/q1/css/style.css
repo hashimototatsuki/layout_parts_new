@@ -7,15 +7,11 @@
   clear: both;
 }
 
-.box {
-  margin-top: 20px;
-}
-
 .q1__content__box:first-child{
 margin-left: 0;
 }
 
-.q1 {
+.q1__content {
   width: 900px;
   margin: auto;
   padding: 20px;
